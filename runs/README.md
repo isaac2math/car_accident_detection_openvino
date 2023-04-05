@@ -1,1 +1,1 @@
-# car accident detection using openvino, onnx, and tensorrt
+# the training, validation, and inference result will be saved here

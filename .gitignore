@@ -18,3 +18,6 @@ pred/blind_test_tiny_1280.mp4
 pred/.ipynb_checkpoints/
 
 runs/detect/
+
+trial_chute.zip
+.gitignore
