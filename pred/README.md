@@ -1,1 +1,0 @@
-# the inference result will be copied here

@@ -1,9 +1,0 @@
-names:
-- chute
-- loco_nose
-- loco_handrail
-- safety_handrail
-nc: 4
-path: /home/ning/Data/Dropbox/Working_Directory/trial_chute/datasets/yolo/
-train: ./train.txt
-val: ./valid.txt
